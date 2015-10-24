@@ -1,0 +1,6 @@
+framework module Pods_BadPod {
+  umbrella header "Pods-BadPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
